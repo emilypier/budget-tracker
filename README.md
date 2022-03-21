@@ -14,13 +14,13 @@
 * [Questions](#questions)
 
 ## Description 
-A budget tracker app made for the avid traveler. Tracks changes in your budget even while offline.
+A budget tracker app made for the avid traveler. Tracks changes in the user's budget even while offline.
 
 ## Installation
 Clone this GitHub repository and run `npm install`.
 
 ## Usage
-Click this [link](link) to start using the app.
+Click this [link](https://fast-falls-56766.herokuapp.com/) to start using the app.
 
 ![Image of Budget Tracker app in action.](/docs/assets/note-taker-image.png)
 
