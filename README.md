@@ -22,7 +22,7 @@ Clone this GitHub repository and run `npm install`.
 ## Usage
 Click this [link](https://fast-falls-56766.herokuapp.com/) to start using the app.
 
-![Image of Budget Tracker app in action.](/docs/assets/note-taker-image.png)
+![Image of Budget Tracker app in action.](/public/budget-tracker.png)
 
 
 ## License
